@@ -20,11 +20,9 @@ Please feel free to ask me about my journey, progress and goals.
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img alig src="[https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C](https://github-readme-stats.vercel.app/api?username=Nefario3k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /></p><br />
 ![](https://github-readme-stats.vercel.app/api?username=Nefario3k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nefario3k&theme=dark&hide_border=false)
-  </p>
-  <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nefario3k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefario3k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies!
