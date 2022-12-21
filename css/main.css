@@ -1,0 +1,27 @@
+:root {
+    --primary-color: green;
+    font-size: 62.5%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.v-main.main {
+    padding-top: 70px !important;
+    color: #000;
+}
+
+li.nav-item a {
+    color: red;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.one_piece {
+    color: var(--primary-color);
+}
