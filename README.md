@@ -1,7 +1,7 @@
 ### 💫 About Me:
 
 - 🔭 I’m currently working on:
-I am currently working on the digital Business card wallet that can store, create, and scan digital business cards and paper cards as well.<br><br>I am looking to work with amazing people across platforms to build responsive websites and webapps.
+The digital Business card wallet that can store, create, and scan digital business cards and paper cards as well.<br><br>I am looking to work with amazing people across platforms to build responsive websites and webapps.
 
 - 🌱 I’m currently learning:
 I am currently learning intersection api in Js, Aos and three.js.
